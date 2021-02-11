@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.1 (15.06.2017)
+## version $VER: Appearance.catalog 2.2 (11.02.2021)
 ## language norsk
 ## codeset 0
 ;
@@ -27,13 +27,17 @@ MSG_SELECTEDTHEME
 Dekorasjon
 ; Theme
 ;
+MSG_ENABLEPALETTEPREFS
+Kopier konfigurasjon til Paletten?
+;Replace current Palette configuration?
+;
 MSG_ENABLEZUNEPREFS
-Kopier konfigurasjon fra Zune?
-; Inherit Zune Configuration?
+Kopier konfigurasjon til Zune?
+;Replace current Zune configuration?
 ;
 MSG_ENABLEWANDPREFS
-Kopier konfigurasjon fra Wanderer?
-; Inherit Wanderer Configuration?
+Kopier konfigurasjon til Wanderer?
+;Replace current Wanderer configuration?
 ;
 MSG_SEC_THEMING
 Dekorering

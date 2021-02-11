@@ -17,11 +17,14 @@ MSG_NOPREVIEW (//)
 MSG_SELECTEDTHEME (//)
 Theme:
 ;
+MSG_ENABLEPALETTEPREFS (//)
+Replace current Palette configuration?
+;
 MSG_ENABLEZUNEPREFS (//)
-Override Zune configuration
+Replace current Zune configuration?
 ;
 MSG_ENABLEWANDPREFS (//)
-Inherit Wanderer Configuration?
+Replace current Wanderer configuration?
 ;
 MSG_SEC_THEMING (//)
 Theming
