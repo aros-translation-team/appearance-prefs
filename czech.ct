@@ -27,10 +27,6 @@ MSG_SELECTEDTHEME
 Pou¾ít téma:
 ; Theme
 ;
-MSG_ENABLEPALETTEPREFS
-Nahradit Paleta nastavení?
-;Replace current Palette configuration?
-;
 MSG_ENABLEZUNEPREFS
 Nahradit Zune nastavení?
 ;Replace current Zune configuration?
@@ -38,6 +34,16 @@ Nahradit Zune nastavení?
 MSG_ENABLEWANDPREFS
 Nahradit  Wanderer nastavení?
 ;Replace current Wanderer configuration?
+;
+MSG_ENABLEPALETTEPREFS
+Nahradit Paleta nastavení?
+;Replace current Palette configuration?
+;
+MSG_ENABLEFONTPREFS
+Replace current Font configuration?
+;
+MSG_ENABLEPOINTERPREFS
+Replace current Pointer configuration?
 ;
 MSG_SEC_THEMING
 Témata

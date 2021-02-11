@@ -27,10 +27,6 @@ MSG_SELECTEDTHEME
 Decorazione
 ; Theme
 ;
-MSG_ENABLEPALETTEPREFS
-Sostituisci le impostazioni della Tavolozza?
-;Replace current Palette configuration?
-;
 MSG_ENABLEZUNEPREFS
 Sostituisci le impostazioni di Zune?
 ;Replace current Zune configuration?
@@ -38,6 +34,16 @@ Sostituisci le impostazioni di Zune?
 MSG_ENABLEWANDPREFS
 Sostituisci le impostazioni di Wanderer?
 ;Replace current Wanderer configuration?
+;
+MSG_ENABLEPALETTEPREFS
+Sostituisci le impostazioni della Tavolozza?
+;Replace current Palette configuration?
+;
+MSG_ENABLEFONTPREFS
+Replace current Font configuration?
+;
+MSG_ENABLEPOINTERPREFS
+Replace current Pointer configuration?
 ;
 MSG_SEC_THEMING
 Decorazioni

@@ -27,14 +27,20 @@ MSG_SELECTEDTHEME
 Тема:
 ; Theme:
 ;
-MSG_ENABLEPALETTEPREFS
-Replace current Palette configuration?
-;
 MSG_ENABLEZUNEPREFS
 Replace current Zune configuration?
 ;
 MSG_ENABLEWANDPREFS
 Replace current Wanderer configuration?
+;
+MSG_ENABLEPALETTEPREFS
+Replace current Palette configuration?
+;
+MSG_ENABLEFONTPREFS
+Replace current Font configuration?
+;
+MSG_ENABLEPOINTERPREFS
+Replace current Pointer configuration?
 ;
 MSG_SEC_THEMING
 Темы

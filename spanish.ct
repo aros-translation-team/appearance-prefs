@@ -27,10 +27,6 @@ MSG_SELECTEDTHEME
 Tema:
 ; Theme:
 ;
-MSG_ENABLEPALETTEPREFS
-Reemplazar la configuración de Paleta
-;Replace current Palette configuration?
-;
 MSG_ENABLEZUNEPREFS
 Reemplazar la configuración de Zune
 ;Replace current Zune configuration?
@@ -38,6 +34,16 @@ Reemplazar la configuración de Zune
 MSG_ENABLEWANDPREFS
 Reemplazar la configuración de Wanderer
 ;Replace current Wanderer configuration?
+;
+MSG_ENABLEPALETTEPREFS
+Reemplazar la configuración de Paleta
+;Replace current Palette configuration?
+;
+MSG_ENABLEFONTPREFS
+Replace current Font configuration?
+;
+MSG_ENABLEPOINTERPREFS
+Replace current Pointer configuration?
 ;
 MSG_SEC_THEMING
 Decoración

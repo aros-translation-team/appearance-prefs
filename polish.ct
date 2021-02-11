@@ -26,10 +26,6 @@ MSG_SELECTEDTHEME
 Motyw
 ; Theme
 ;
-MSG_ENABLEPALETTEPREFS
-Skopiuj Ustawienia Wanderera?
-;Replace current Palette configuration?
-;
 MSG_ENABLEZUNEPREFS
 Skopiuj Ustawienia Zune?
 ;Replace current Zune configuration?
@@ -37,6 +33,16 @@ Skopiuj Ustawienia Zune?
 MSG_ENABLEWANDPREFS
 Skopiuj Ustawienia Wanderera?
 ;Replace current Wanderer configuration?
+;
+MSG_ENABLEPALETTEPREFS
+Skopiuj Ustawienia Wanderera?
+;Replace current Palette configuration?
+;
+MSG_ENABLEFONTPREFS
+Replace current Font configuration?
+;
+MSG_ENABLEPOINTERPREFS
+Replace current Pointer configuration?
 ;
 MSG_SEC_THEMING
 Motywy
