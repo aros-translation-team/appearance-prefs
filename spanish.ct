@@ -1,5 +1,5 @@
 ## version $VER: Appearance.catalog 2.1 (11.02.2021)
-## language espa帽ol
+## language espa駉l
 ## codeset 0
 ;
 ;
@@ -16,7 +16,7 @@ Activar temas
 ; Enable theming
 ;
 MSG_PREVIEW
-Previsualizaci贸n
+Previsualizaci髇
 ; Preview
 ;
 MSG_NOPREVIEW
@@ -28,15 +28,15 @@ Tema:
 ; Theme:
 ;
 MSG_ENABLEZUNEPREFS
-Reemplazar la configuraci贸n de Zune
+Reemplazar la configuraci髇 de Zune
 ;Replace current Zune configuration?
 ;
 MSG_ENABLEWANDPREFS
-Reemplazar la configuraci贸n de Wanderer
+Reemplazar la configuraci髇 de Wanderer
 ;Replace current Wanderer configuration?
 ;
 MSG_ENABLEPALETTEPREFS
-Reemplazar la configuraci贸n de Paleta
+Reemplazar la configuraci髇 de Paleta
 ;Replace current Palette configuration?
 ;
 MSG_ENABLEFONTPREFS
@@ -46,30 +46,30 @@ MSG_ENABLEPOINTERPREFS
 Replace current Pointer configuration?
 ;
 MSG_SEC_THEMING
-Decoraci贸n
+Decoraci髇
 ; Theming
 ;
 MSG_SEC_COMPOSITING
-Composici贸n
+Composici髇
 ; Compositing
 ;
 MSG_ENABLE_SCREEN_COMPOSITION
-Habilitar composici贸n de pantalla
+Habilitar composici髇 de pantalla
 ; Enable screen composition
 ;
 MSG_COMPOSITE_BELOW
-Composici贸n abajo
+Composici髇 abajo
 ; Composite below
 ;
 MSG_COMPOSITE_LEFT
-Composici贸n a la izquierda
+Composici髇 a la izquierda
 ; Composite left
 ;
 MSG_COMPOSITE_RIGHT
-Composici贸n a la derecha
+Composici髇 a la derecha
 ; Composite right
 ;
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
-Habilitar composici贸n con alpha
+Habilitar composici髇 con alpha
 ; Enable compositing with alpha
 ;
