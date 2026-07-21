@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.2 (14.03.2023)
+## version $VER: Appearance.catalog 2.3 (21.07.2026)
 ## language español
 ## codeset 0
 ;
@@ -28,24 +28,24 @@ Tema:
 ; Theme:
 ;
 MSG_ENABLEZUNEPREFS
-Reemplazar la configuración de Zune
-;Replace current Zune configuration?
+Zune
+; Zune
 ;
 MSG_ENABLEWANDPREFS
-Reemplazar la configuración de Wanderer
-;Replace current Wanderer configuration?
+Wanderer
+; Wanderer
 ;
 MSG_ENABLEPALETTEPREFS
-Reemplazar la configuración de Paleta
-;Replace current Palette configuration?
+Paleta
+; Palette
 ;
 MSG_ENABLEFONTPREFS
-Reemplazar la configuración de fuente?
-;Replace current Font configuration?
+Fuentes
+; Fonts
 ;
 MSG_ENABLEPOINTERPREFS
-Reemplazar la configuración del puntero?
-;Replace current Pointer configuration?
+Punteros
+; Pointers
 ;
 MSG_SEC_THEMING
 Decoración
@@ -74,4 +74,8 @@ Composición a la derecha
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Habilitar composición con alpha
 ; Enable compositing with alpha
+;
+MSG_USETHEMECONFIGFOR
+Usar la configuración del tema para..
+; Use theme configuration for..
 ;

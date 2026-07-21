@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.2 (11.02.2021)
+## version $VER: Appearance.catalog 2.3 (21.07.2026)
 ## language norsk
 ## codeset 0
 ;
@@ -28,22 +28,22 @@ Dekorasjon
 ; Theme
 ;
 MSG_ENABLEZUNEPREFS
-Kopier konfigurasjon til Zune?
-;Replace current Zune configuration?
+Zune
+; Zune
 ;
 MSG_ENABLEWANDPREFS
-Kopier konfigurasjon til Wanderer?
-;Replace current Wanderer configuration?
+Wanderer
+; Wanderer
 ;
 MSG_ENABLEPALETTEPREFS
-Kopier konfigurasjon til Paletten?
-;Replace current Palette configuration?
+Palett
+; Palette
 ;
 MSG_ENABLEFONTPREFS
-Replace current Font configuration?
+Skrifttyper
 ;
 MSG_ENABLEPOINTERPREFS
-Replace current Pointer configuration?
+Pekere
 ;
 MSG_SEC_THEMING
 Dekorering
@@ -73,4 +73,8 @@ MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Aktiver sammensetting med alpha
 ; Enable Compositing with Alpha
 ;
+;
+MSG_USETHEMECONFIGFOR
+Bruk temaoppsettet for..
+; Use theme configuration for..
 ;

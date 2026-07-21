@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.1 (11.02.2021)
+## version $VER: Appearance.catalog 2.2 (21.07.2026)
 ## language polski
 ## codeset 5
 ;
@@ -27,24 +27,24 @@ Motyw
 ; Theme
 ;
 MSG_ENABLEZUNEPREFS
-Zast±piæ bie¿±c± konfiguracjê Zune?
-; Replace current Zune configuration?
+Zune
+; Zune
 ;
 MSG_ENABLEWANDPREFS
-Zast±piæ bie¿±c± konfiguracjê Wanderera?
-; Replace current Wanderer configuration?
+Wanderer
+; Wanderer
 ;
 MSG_ENABLEPALETTEPREFS
-Zast±piæ bie¿±c± konfiguracjê Palety?
-; Replace current Palette configuration?
+Paleta
+; Palette
 ;
 MSG_ENABLEFONTPREFS
-Zast±piæ bie¿±c± konfiguracjê Czcionek?
-; Replace current Font configuration?
+Czcionki
+; Fonts
 ;
 MSG_ENABLEPOINTERPREFS
-Zast±piæ bie¿±c± konfiguracjê Wska¼nika?
-; Replace current Pointer configuration?
+Wska¼niki
+; Pointers
 ;
 MSG_SEC_THEMING
 Motywy
@@ -73,4 +73,8 @@ Kompozycja po prawej
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Uaktywnij kompozycjê z przezroczysto¶ci±
 ; Enable Compositing with Alpha
+;
+MSG_USETHEMECONFIGFOR
+U¿yj konfiguracji motywu dla..
+; Use theme configuration for..
 ;

@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.2 (11.02.2021)
+## version $VER: Appearance.catalog 2.3 (21.07.2026)
 ## language italiano
 ## codeset 0
 ;
@@ -28,22 +28,22 @@ Decorazione
 ; Theme
 ;
 MSG_ENABLEZUNEPREFS
-Sostituisci le impostazioni di Zune?
-;Replace current Zune configuration?
+Zune
+; Zune
 ;
 MSG_ENABLEWANDPREFS
-Sostituisci le impostazioni di Wanderer?
-;Replace current Wanderer configuration?
+Wanderer
+; Wanderer
 ;
 MSG_ENABLEPALETTEPREFS
-Sostituisci le impostazioni della Tavolozza?
-;Replace current Palette configuration?
+Palette
+; Palette
 ;
 MSG_ENABLEFONTPREFS
-Replace current Font configuration?
+Font
 ;
 MSG_ENABLEPOINTERPREFS
-Replace current Pointer configuration?
+Puntatori
 ;
 MSG_SEC_THEMING
 Decorazioni
@@ -73,4 +73,8 @@ MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Composizione con trasparenza
 ; Enable Compositing with Alpha
 ;
+;
+MSG_USETHEMECONFIGFOR
+Usa la configurazione del tema per..
+; Use theme configuration for..
 ;

@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.1 (07.11.2021)
+## version $VER: Appearance.catalog 2.2 (21.07.2026)
 ## language türkçe
 ## codeset 12
 ;
@@ -28,24 +28,24 @@ Tema:
 ; Theme:
 ;
 MSG_ENABLEZUNEPREFS
-Geçerli Zune yapýlandýrmasý deðiþtirilsin mi?
-; Replace current Zune configuration?
+Zune
+; Zune
 ;
 MSG_ENABLEWANDPREFS
-Mevcut Wanderer konfigürasyonu deðiþtirilsin mi?
-; Replace current Wanderer configuration?
+Wanderer
+; Wanderer
 ;
 MSG_ENABLEPALETTEPREFS
-Mevcut Palet yapýlandýrmasý deðiþtirilsin mi?
-; Replace current Palette configuration?
+Palet
+; Palette
 ;
 MSG_ENABLEFONTPREFS
-Mevcut Yazý Tipi yapýlandýrmasý deðiþtirilsin mi?
-; Replace current Font configuration?
+Yazý tipleri
+; Fonts
 ;
 MSG_ENABLEPOINTERPREFS
-Mevcut Ýþaretçi yapýlandýrmasý deðiþtirilsin mi?
-; Replace current Pointer configuration?
+Ýþaretçiler
+; Pointers
 ;
 MSG_SEC_THEMING
 Tema yapýlandýrýlýr
@@ -74,4 +74,8 @@ Saðdaki ile birleþtir
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Alfa ile birleþtirmeyi etkinleþtir
 ; Enable compositing with alpha
+;
+MSG_USETHEMECONFIGFOR
+Þunlar için tema yapýlandýrmasýný kullan..
+; Use theme configuration for..
 ;

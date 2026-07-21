@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.0 (28.02.2024)
+## version $VER: Appearance.catalog 2.1 (21.07.2026)
 ## language euskara
 ## codeset 0
 ;
@@ -28,24 +28,24 @@ Gaia:
 ; Theme:
 ;
 MSG_ENABLEZUNEPREFS
-Zune ezarpenak ordezkatu?
-;Replace current Zune configuration?
+Zune
+; Zune
 ;
 MSG_ENABLEWANDPREFS
-Wanderer ezarpenak ordezkatu?
-;Replace current Wanderer configuration?
+Wanderer
+; Wanderer
 ;
 MSG_ENABLEPALETTEPREFS
-Paleta ezarpenak ordezkatu?
-;Replace current Palette configuration?
+Paleta
+; Palette
 ;
 MSG_ENABLEFONTPREFS
-Letra-tipo ezarpenak ordezkatu?
-;Replace current Font configuration?
+Letra-tipoak
+; Fonts
 ;
 MSG_ENABLEPOINTERPREFS
-Erakusle ezarpenak ordezkatu?
-;Replace current Pointer configuration?
+Erakusleak
+; Pointers
 ;
 MSG_SEC_THEMING
 Dekorazioa
@@ -74,4 +74,8 @@ Konposizioa eskuinean
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Gaitu alpha konposizioa
 ; Enable compositing with alpha
+;
+MSG_USETHEMECONFIGFOR
+Erabili gaiaren konfigurazioa honetarako..
+; Use theme configuration for..
 ;
