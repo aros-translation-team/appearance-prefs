@@ -1,0 +1,80 @@
+## version $VER: Appearance.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_WINTITLE
+Podeçavanja izgleda
+; Appearance Preferences
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_ENABLETHEMES
+Omogu†i teme
+; Enable theming
+;
+MSG_PREVIEW
+Pregled
+; Preview
+;
+MSG_NOPREVIEW
+-Pregled nije dostupan-
+; -Preview Unavailable-
+;
+MSG_SELECTEDTHEME
+Tema:
+; Theme:
+;
+MSG_ENABLEZUNEPREFS
+Zune
+; Zune
+;
+MSG_ENABLEWANDPREFS
+Wanderer
+; Wanderer
+;
+MSG_ENABLEPALETTEPREFS
+Boje
+; Palette
+;
+MSG_ENABLEFONTPREFS
+Fontovi
+; Fonts
+;
+MSG_ENABLEPOINTERPREFS
+PokazivaŸi
+; Pointers
+;
+MSG_SEC_THEMING
+Teme
+; Theming
+;
+MSG_SEC_COMPOSITING
+Kompozicija
+; Compositing
+;
+MSG_ENABLE_SCREEN_COMPOSITION
+Omogu†i kompoziciju ekrana
+; Enable screen composition
+;
+MSG_COMPOSITE_BELOW
+Kompozicija ispod
+; Composite below
+;
+MSG_COMPOSITE_LEFT
+Kompozicija levo
+; Composite left
+;
+MSG_COMPOSITE_RIGHT
+Kompozicija desno
+; Composite right
+;
+MSG_ENABLE_COMPOSITE_WITH_ALPHA
+Omogu†i kompoziciju sa alfom
+; Enable compositing with alpha
+;
+MSG_USETHEMECONFIGFOR
+Koristi podeçavanja teme za..
+; Use theme configuration for..
+;

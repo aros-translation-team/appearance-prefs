@@ -1,0 +1,80 @@
+## version $VER: Appearance.catalog 2.0 (06.08.2026)
+## language deutsch
+## codeset 0
+;
+MSG_WINTITLE
+Erscheinungsbild-Einstellungen
+; Appearance Preferences
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_ENABLETHEMES
+Themen aktivieren
+; Enable theming
+;
+MSG_PREVIEW
+Vorschau
+; Preview
+;
+MSG_NOPREVIEW
+-Vorschau nicht verfügbar-
+; -Preview Unavailable-
+;
+MSG_SELECTEDTHEME
+Thema:
+; Theme:
+;
+MSG_ENABLEZUNEPREFS
+Zune
+; Zune
+;
+MSG_ENABLEWANDPREFS
+Wanderer
+; Wanderer
+;
+MSG_ENABLEPALETTEPREFS
+Palette
+; Palette
+;
+MSG_ENABLEFONTPREFS
+Zeichensätze
+; Fonts
+;
+MSG_ENABLEPOINTERPREFS
+Mauszeiger
+; Pointers
+;
+MSG_SEC_THEMING
+Themen
+; Theming
+;
+MSG_SEC_COMPOSITING
+Compositing
+; Compositing
+;
+MSG_ENABLE_SCREEN_COMPOSITION
+Bildschirm-Compositing aktivieren
+; Enable screen composition
+;
+MSG_COMPOSITE_BELOW
+Compositing unten
+; Composite below
+;
+MSG_COMPOSITE_LEFT
+Compositing links
+; Composite left
+;
+MSG_COMPOSITE_RIGHT
+Compositing rechts
+; Composite right
+;
+MSG_ENABLE_COMPOSITE_WITH_ALPHA
+Compositing mit Alpha aktivieren
+; Enable compositing with alpha
+;
+MSG_USETHEMECONFIGFOR
+Themen-Konfiguration verwenden für..
+; Use theme configuration for..
+;

@@ -1,0 +1,80 @@
+## version $VER: Appearance.catalog 2.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_WINTITLE
+Uiterlijk instellingen
+; Appearance Preferences
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_ENABLETHEMES
+Thema's inschakelen
+; Enable theming
+;
+MSG_PREVIEW
+Voorbeeld
+; Preview
+;
+MSG_NOPREVIEW
+-Geen voorbeeld beschikbaar-
+; -Preview Unavailable-
+;
+MSG_SELECTEDTHEME
+Thema:
+; Theme:
+;
+MSG_ENABLEZUNEPREFS
+Zune
+; Zune
+;
+MSG_ENABLEWANDPREFS
+Wanderer
+; Wanderer
+;
+MSG_ENABLEPALETTEPREFS
+Palet
+; Palette
+;
+MSG_ENABLEFONTPREFS
+Fonts
+; Fonts
+;
+MSG_ENABLEPOINTERPREFS
+Muiswijzers
+; Pointers
+;
+MSG_SEC_THEMING
+Thema's
+; Theming
+;
+MSG_SEC_COMPOSITING
+Compositing
+; Compositing
+;
+MSG_ENABLE_SCREEN_COMPOSITION
+Schermcompositie inschakelen
+; Enable screen composition
+;
+MSG_COMPOSITE_BELOW
+Compositie onder
+; Composite below
+;
+MSG_COMPOSITE_LEFT
+Compositie links
+; Composite left
+;
+MSG_COMPOSITE_RIGHT
+Compositie rechts
+; Composite right
+;
+MSG_ENABLE_COMPOSITE_WITH_ALPHA
+Compositing met alpha inschakelen
+; Enable compositing with alpha
+;
+MSG_USETHEMECONFIGFOR
+Themaconfiguratie gebruiken voor..
+; Use theme configuration for..
+;

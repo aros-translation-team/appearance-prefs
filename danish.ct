@@ -1,0 +1,80 @@
+## version $VER: Appearance.catalog 2.0 (06.08.2026)
+## language dansk
+## codeset 0
+;
+MSG_WINTITLE
+Udseendeindstillinger
+; Appearance Preferences
+;
+MSG_OK
+O.k.
+; Ok
+;
+MSG_ENABLETHEMES
+Aktivér temaer
+; Enable theming
+;
+MSG_PREVIEW
+Forhåndsvisning
+; Preview
+;
+MSG_NOPREVIEW
+-Forhåndsvisning utilgængelig-
+; -Preview Unavailable-
+;
+MSG_SELECTEDTHEME
+Tema:
+; Theme:
+;
+MSG_ENABLEZUNEPREFS
+Zune
+; Zune
+;
+MSG_ENABLEWANDPREFS
+Wanderer
+; Wanderer
+;
+MSG_ENABLEPALETTEPREFS
+Palette
+; Palette
+;
+MSG_ENABLEFONTPREFS
+Skrifttyper
+; Fonts
+;
+MSG_ENABLEPOINTERPREFS
+Pointere
+; Pointers
+;
+MSG_SEC_THEMING
+Temaer
+; Theming
+;
+MSG_SEC_COMPOSITING
+Komposition
+; Compositing
+;
+MSG_ENABLE_SCREEN_COMPOSITION
+Aktivér skærmkomposition
+; Enable screen composition
+;
+MSG_COMPOSITE_BELOW
+Komposit nedenfor
+; Composite below
+;
+MSG_COMPOSITE_LEFT
+Komposit til venstre
+; Composite left
+;
+MSG_COMPOSITE_RIGHT
+Komposit til højre
+; Composite right
+;
+MSG_ENABLE_COMPOSITE_WITH_ALPHA
+Aktivér komposition med alfa
+; Enable compositing with alpha
+;
+MSG_USETHEMECONFIGFOR
+Brug temakonfiguration til..
+; Use theme configuration for..
+;

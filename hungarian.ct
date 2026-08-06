@@ -1,0 +1,80 @@
+## version $VER: Appearance.catalog 2.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_WINTITLE
+Megjelenés beállítások
+; Appearance Preferences
+;
+MSG_OK
+Rendben
+; Ok
+;
+MSG_ENABLETHEMES
+Témák engedélyezése
+; Enable theming
+;
+MSG_PREVIEW
+Elõnézet
+; Preview
+;
+MSG_NOPREVIEW
+-Elõnézet nem érhetõ el-
+; -Preview Unavailable-
+;
+MSG_SELECTEDTHEME
+Téma:
+; Theme:
+;
+MSG_ENABLEZUNEPREFS
+Zune
+; Zune
+;
+MSG_ENABLEWANDPREFS
+Wanderer
+; Wanderer
+;
+MSG_ENABLEPALETTEPREFS
+Paletta
+; Palette
+;
+MSG_ENABLEFONTPREFS
+Betûtípusok
+; Fonts
+;
+MSG_ENABLEPOINTERPREFS
+Egérmutatók
+; Pointers
+;
+MSG_SEC_THEMING
+Témák
+; Theming
+;
+MSG_SEC_COMPOSITING
+Kompozitálás
+; Compositing
+;
+MSG_ENABLE_SCREEN_COMPOSITION
+Képernyõ-kompozitálás engedélyezése
+; Enable screen composition
+;
+MSG_COMPOSITE_BELOW
+Kompozitálás alul
+; Composite below
+;
+MSG_COMPOSITE_LEFT
+Kompozitálás balra
+; Composite left
+;
+MSG_COMPOSITE_RIGHT
+Kompozitálás jobbra
+; Composite right
+;
+MSG_ENABLE_COMPOSITE_WITH_ALPHA
+Kompozitálás engedélyezése alfával
+; Enable compositing with alpha
+;
+MSG_USETHEMECONFIGFOR
+Témabeállítások használata ehhez..
+; Use theme configuration for..
+;

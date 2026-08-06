@@ -1,0 +1,80 @@
+## version $VER: Appearance.catalog 2.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_WINTITLE
+Utseendeinställningar
+; Appearance Preferences
+;
+MSG_OK
+OK
+; Ok
+;
+MSG_ENABLETHEMES
+Aktivera teman
+; Enable theming
+;
+MSG_PREVIEW
+Förhandsgranskning
+; Preview
+;
+MSG_NOPREVIEW
+-Förhandsvisning ej tillgänglig-
+; -Preview Unavailable-
+;
+MSG_SELECTEDTHEME
+Tema:
+; Theme:
+;
+MSG_ENABLEZUNEPREFS
+Zune
+; Zune
+;
+MSG_ENABLEWANDPREFS
+Wanderer
+; Wanderer
+;
+MSG_ENABLEPALETTEPREFS
+Färginst
+; Palette
+;
+MSG_ENABLEFONTPREFS
+Typsnitt
+; Fonts
+;
+MSG_ENABLEPOINTERPREFS
+Pekare
+; Pointers
+;
+MSG_SEC_THEMING
+Teman
+; Theming
+;
+MSG_SEC_COMPOSITING
+Komposition
+; Compositing
+;
+MSG_ENABLE_SCREEN_COMPOSITION
+Aktivera skärmkomposition
+; Enable screen composition
+;
+MSG_COMPOSITE_BELOW
+Komposition nedanför
+; Composite below
+;
+MSG_COMPOSITE_LEFT
+Komposition till vänster
+; Composite left
+;
+MSG_COMPOSITE_RIGHT
+Komposition till höger
+; Composite right
+;
+MSG_ENABLE_COMPOSITE_WITH_ALPHA
+Aktivera komposition med alfa
+; Enable compositing with alpha
+;
+MSG_USETHEMECONFIGFOR
+Använd temakonfiguration för..
+; Use theme configuration for..
+;

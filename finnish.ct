@@ -1,0 +1,80 @@
+## version $VER: Appearance.catalog 2.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_WINTITLE
+Ulkoasuasetukset
+; Appearance Preferences
+;
+MSG_OK
+Selvä
+; Ok
+;
+MSG_ENABLETHEMES
+Ota teemat käyttöön
+; Enable theming
+;
+MSG_PREVIEW
+Esikatselu
+; Preview
+;
+MSG_NOPREVIEW
+-Esikatselua ei saatavilla-
+; -Preview Unavailable-
+;
+MSG_SELECTEDTHEME
+Teema:
+; Theme:
+;
+MSG_ENABLEZUNEPREFS
+Zune
+; Zune
+;
+MSG_ENABLEWANDPREFS
+Wanderer
+; Wanderer
+;
+MSG_ENABLEPALETTEPREFS
+Palet
+; Palette
+;
+MSG_ENABLEFONTPREFS
+Kirjasimet
+; Fonts
+;
+MSG_ENABLEPOINTERPREFS
+Osoittimet
+; Pointers
+;
+MSG_SEC_THEMING
+Teemat
+; Theming
+;
+MSG_SEC_COMPOSITING
+Koostaminen
+; Compositing
+;
+MSG_ENABLE_SCREEN_COMPOSITION
+Ota näytön koostaminen käyttöön
+; Enable screen composition
+;
+MSG_COMPOSITE_BELOW
+Koosta alapuolella
+; Composite below
+;
+MSG_COMPOSITE_LEFT
+Koosta vasemmalla
+; Composite left
+;
+MSG_COMPOSITE_RIGHT
+Koosta oikealla
+; Composite right
+;
+MSG_ENABLE_COMPOSITE_WITH_ALPHA
+Ota alfakoostaminen käyttöön
+; Enable compositing with alpha
+;
+MSG_USETHEMECONFIGFOR
+Käytä teeman asetuksia kohteille..
+; Use theme configuration for..
+;
