@@ -55,23 +55,23 @@ Sammensetting
 ;
 MSG_ENABLE_SCREEN_COMPOSITION
 Aktiver skjermsammensetting
-; Enable Screen Composition
+; Enable screen composition
 ;
 MSG_COMPOSITE_BELOW
 Sammensetting under
-; Composite Below
+; Composite below
 ;
 MSG_COMPOSITE_LEFT
 Sammensetting til venstre
-; Composite Left
+; Composite left
 ;
 MSG_COMPOSITE_RIGHT
 Sammensetting til høyre
-; Composite Right
+; Composite right
 ;
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Aktiver sammensetting med alpha
-; Enable Compositing with Alpha
+; Enable compositing with alpha
 ;
 ;
 MSG_USETHEMECONFIGFOR
