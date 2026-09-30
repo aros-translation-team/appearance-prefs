@@ -55,23 +55,23 @@ Composizione
 ;
 MSG_ENABLE_SCREEN_COMPOSITION
 Abilitare composizione schermo
-; Enable Screen Composition
+; Enable screen composition
 ;
 MSG_COMPOSITE_BELOW
 Composizione sotto
-; Composite Below
+; Composite below
 ;
 MSG_COMPOSITE_LEFT
 Composizione a sinistra
-; Composite Left
+; Composite left
 ;
 MSG_COMPOSITE_RIGHT
 Composizione a destra
-; Composite Right
+; Composite right
 ;
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Composizione con trasparenza
-; Enable Compositing with Alpha
+; Enable compositing with alpha
 ;
 ;
 MSG_USETHEMECONFIGFOR
