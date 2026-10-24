@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.3 (21.07.2026)
+## version $VER: Appearance.catalog 2.4 (24.10.2026)
 ## language norsk
 ## codeset 0
 ;
@@ -72,6 +72,14 @@ Sammensetting til høyre
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Aktiver sammensetting med alpha
 ; Enable compositing with alpha
+;
+MSG_COMPOSITE_SCALE
+Skaler mindre skjermer opp til den største skjermens modus
+; Scale smaller screens up to the largest screen's mode
+;
+MSG_COMPOSITE_NATIVEMODE
+Bruk i stedet skjermens høyeste modus
+; Use the display's highest mode instead
 ;
 ;
 MSG_USETHEMECONFIGFOR

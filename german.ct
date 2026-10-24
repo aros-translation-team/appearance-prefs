@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.0 (06.08.2026)
+## version $VER: Appearance.catalog 2.1 (24.10.2026)
 ## language deutsch
 ## codeset 0
 ;
@@ -73,6 +73,14 @@ Compositing rechts
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Compositing mit Alpha aktivieren
 ; Enable compositing with alpha
+;
+MSG_COMPOSITE_SCALE
+Kleinere Bildschirme auf den Modus des größten Bildschirms skalieren
+; Scale smaller screens up to the largest screen's mode
+;
+MSG_COMPOSITE_NATIVEMODE
+Stattdessen den höchsten Modus der Anzeige verwenden
+; Use the display's highest mode instead
 ;
 MSG_USETHEMECONFIGFOR
 Themen-Konfiguration verwenden für..

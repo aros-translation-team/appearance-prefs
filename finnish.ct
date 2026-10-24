@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.0 (06.08.2026)
+## version $VER: Appearance.catalog 2.1 (24.10.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -73,6 +73,14 @@ Koosta oikealla
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Ota alfakoostaminen käyttöön
 ; Enable compositing with alpha
+;
+MSG_COMPOSITE_SCALE
+Skaalaa pienemmät näytöt suurimman näytön tilaan
+; Scale smaller screens up to the largest screen's mode
+;
+MSG_COMPOSITE_NATIVEMODE
+Käytä sen sijaan näytön korkeinta tilaa
+; Use the display's highest mode instead
 ;
 MSG_USETHEMECONFIGFOR
 Käytä teeman asetuksia kohteille..

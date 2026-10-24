@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.3 (21.07.2026)
+## version $VER: Appearance.catalog 2.4 (24.10.2026)
 ## language russian
 ## codeset 2104
 ;
@@ -69,6 +69,14 @@ MSG_COMPOSITE_RIGHT
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Вкл. композит с альфа-каналом
 ; Enable compositing with alpha
+;
+MSG_COMPOSITE_SCALE
+Масштабировать меньшие экраны до режима самого большого экрана
+; Scale smaller screens up to the largest screen's mode
+;
+MSG_COMPOSITE_NATIVEMODE
+Использовать вместо этого наивысший режим дисплея
+; Use the display's highest mode instead
 ;
 MSG_USETHEMECONFIGFOR
 Использовать настройки темы для..

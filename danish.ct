@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.0 (06.08.2026)
+## version $VER: Appearance.catalog 2.1 (24.10.2026)
 ## language dansk
 ## codeset 0
 ;
@@ -73,6 +73,14 @@ Komposit til højre
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Aktivér komposition med alfa
 ; Enable compositing with alpha
+;
+MSG_COMPOSITE_SCALE
+Skalér mindre skærme op til den største skærms tilstand
+; Scale smaller screens up to the largest screen's mode
+;
+MSG_COMPOSITE_NATIVEMODE
+Brug i stedet skærmens højeste tilstand
+; Use the display's highest mode instead
 ;
 MSG_USETHEMECONFIGFOR
 Brug temakonfiguration til..

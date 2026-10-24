@@ -1,4 +1,4 @@
-## version $VER: Appearance.catalog 2.2 (21.07.2026)
+## version $VER: Appearance.catalog 2.3 (24.10.2026)
 ## language türkçe
 ## codeset 12
 ;
@@ -74,6 +74,14 @@ Saðdaki ile birleþtir
 MSG_ENABLE_COMPOSITE_WITH_ALPHA
 Alfa ile birleþtirmeyi etkinleþtir
 ; Enable compositing with alpha
+;
+MSG_COMPOSITE_SCALE
+Daha küçük ekranlarý en büyük ekranýn moduna ölçekle
+; Scale smaller screens up to the largest screen's mode
+;
+MSG_COMPOSITE_NATIVEMODE
+Bunun yerine ekranýn en yüksek modunu kullan
+; Use the display's highest mode instead
 ;
 MSG_USETHEMECONFIGFOR
 Þunlar için tema yapýlandýrmasýný kullan..
